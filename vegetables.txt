@@ -1,6 +1,5 @@
 
 potatoes
-carrot
 tomato
 malak
 
