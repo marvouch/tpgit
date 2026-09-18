@@ -4,3 +4,4 @@ orange
 kiwi
 grapes
 pineapple
+cherries
