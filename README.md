@@ -1,4 +1,4 @@
-\#  TP Introduction to GIT
+\# TP Introduction to GIT
 
 
 
@@ -12,7 +12,7 @@ This is a list of ingredients, our first attempt at working with git
 
 
 
-\##  Authors
+\## Authors
 
 
 
@@ -21,7 +21,7 @@ This is a list of ingredients, our first attempt at working with git
 
 
 
-\##  Objectives
+\## Objectives
 
 &#x20;
 
